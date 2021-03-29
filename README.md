@@ -1,8 +1,3 @@
-### Hi there 👋
-
-JairusGalang/JairusGalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my capstone project which is a Repository for all Researches of CITE Department in University of Pangasinan
 - 🌱 I’m currently learning PHP, MySQL, Bootstrap, Javascript.
