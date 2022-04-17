@@ -1,10 +1,10 @@
 
-- 🔭 I’m currently working on my capstone project which is a Repository for all Researches of CITE Department in University of Pangasinan
-- 🌱 I’m currently learning PHP, MySQL, Bootstrap, Javascript.
-- 👯 I’m looking to collaborate on with anyone who's interested learning and growing.
+- 🔭 I’m currently done with my OJT as Data Engineer at SP Madrid Associates and Law Firm
+- 🌱 I’m currently learning Laravel, TailwindCSS, MySQL and UX Designing
+- 👯 I’m looking to collaborate on with anyone who's interested at Designing
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about Web Development
-- 📫 How to reach me: you can dm me at jairusgalang.jg@gmail.com
+- 📫 How to reach me: you can dm me at jairusgalang.dev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love Web Development but I'm still strugling with it. (which is currently I'm working on)
 
