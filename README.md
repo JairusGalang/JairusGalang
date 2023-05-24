@@ -1,12 +1,12 @@
 
-- 🔭 I’m currently done with my OJT as Data Engineer at SP Madrid Associates and Law Firm
-- 🌱 I’m currently learning Laravel, TailwindCSS, MySQL and UX Designing
-- 👯 I’m looking to collaborate on with anyone who's interested at Designing
-- 🤔 I’m looking for help with Javascript
-- 💬 Ask me about Web Development
-- 📫 How to reach me: you can dm me at jairusgalang.dev@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I really love Web Development but I'm still strugling with it. (which is currently I'm working on)
+- 🔭 I’m currently applying for Software Engineer Role, I worked previously as Software Developer at Innovative Media Philippines in Baguio City.
+- 🌱 I’m currently learning Laravel, TailwindCSS, MySQL and UX Designing.
+- 👯 I’m looking to collaborate on with anyone who's interested at Designing.
+- 🤔 I’m looking for help with Javascript.
+- 💬 Ask me about Web Development.
+- 📫 How to reach me: you can dm me at jairusgalang.dev@gmail.com.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: Flutter is the first framework I have used in my first job.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JairusGalang&show_icons=true&theme=radical)
 
