@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter State Management, Firebase with Firebase Authentication and Cloud Firestore, React.js, Next.js and TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [jairusgalang.github.io](jairusgalang.github.io)
+- 👨‍💻 All of my projects are available at [https://jairusgalang.github.io](jairusgalang.github.io)
 
 - 💬 Ask me about **Flutter and Web Development topics**
 
