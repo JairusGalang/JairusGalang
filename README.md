@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jairus Galang</h1>
-<h3 align="center">A passionate Software Developer from the Philippines. I am graduate of Bachelor of Science in Information Technology and Major in Web Development. I previously worked as a Software Developer and developed a local based e-commerce app using Flutter and Firebase. I am currently searching for a Software Engineer/Developer role.</h3>
+<h3 align="center">A passionate Software Developer from the Philippines. I am a graduate of Bachelor of Science in Information Technology and Major in Web Development. I previously worked as a Software Developer and developed a local based e-commerce app using Flutter and Firebase. I am currently searching for a Software Engineer/Developer role.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairusgalang&label=Profile%20views&color=0e75b6&style=flat" alt="jairusgalang" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter and Web Development topics**
 
-- 📫 How to reach me **jairusgalang.dev@gmail.com**
+- 📫 How to reach me **jairusgalang.workmail@gmail.com**
 
 - ⚡ Fun fact **I graduated with a Major of Web Development but currently working/upskilling my skills in cross-platform such as Flutter.**
 
